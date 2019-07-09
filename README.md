@@ -1,2 +1,0 @@
-# territorioc
-Territorio C
