@@ -92,7 +92,9 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-nuevo-128x123.png",
     "noImageResize": "",
     "google-analytics": "",
-    "imageResize": true
+    "imageResize": true,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
