@@ -3569,7 +3569,7 @@ section.lazy-placeholder:after {
 }
 .cid-rwfO90k8so {
   padding-top: 45px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background-color: #f9f9f9;
 }
 .cid-rwfO90k8so .mbr-section-subtitle {
@@ -3614,6 +3614,11 @@ section.lazy-placeholder:after {
   .cid-rwfO90k8so .card:not(.last-child) {
     padding-bottom: 1.5rem;
   }
+}
+.cid-tiBliqf89r {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
 }
 .cid-rwfIMvvfjo {
   padding-top: 30px;
